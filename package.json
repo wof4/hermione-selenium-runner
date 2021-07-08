@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "delay": "^5.0.0",
     "fs": "^0.0.1-security"
   },
   "name": "hermione-selenium-runner",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
