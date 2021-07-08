@@ -1,5 +1,7 @@
 
-import * as fs from 'fs';
+const fsp = require('fs/promises');
+const delay = require('delay');
+const { spawn } = require('child_process');
 
 const { spawn } = require('child_process');
 const delay = require('delay');
