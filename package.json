@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "name": "hermione-selenium-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wof4/hermione-selenium-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wof4/hermione-selenium-runner/issues"
+  },
+  "homepage": "https://github.com/wof4/hermione-selenium-runner#readme",
+  "description": ""
 }
